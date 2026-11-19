@@ -7,7 +7,7 @@
     "compare": "node compare.mjs ../fixtures/edges.md ../fixtures/phrases.md"
   },
   "dependencies": {
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.3.2",
     "write-good": "1.0.8"
   }
 }
