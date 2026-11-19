@@ -1,0 +1,74 @@
+../edges.md:3:1:write-good.So:'So' adds no meaning
+../edges.md:3:12:write-good.E-Prime:'was' is a form of 'to be'
+../edges.md:3:12:write-good.Passive:'was stolen' may be passive voice
+../edges.md:3:32:write-good.So:'so' adds no meaning
+../edges.md:4:1:write-good.Adverbs:'things' can weaken meaning
+../edges.md:4:16:write-good.So:'so' adds no meaning
+../edges.md:6:1:write-good.ThereIs:'There is' is unnecessary verbiage
+../edges.md:6:7:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:6:17:write-good.ThereIs:'There are' is unnecessary verbiage
+../edges.md:6:23:write-good.E-Prime:'are' is a form of 'to be'
+../edges.md:6:33:write-good.ThereIs:'there is' is unnecessary verbiage
+../edges.md:6:39:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:6:52:write-good.E-Prime:'Is' is a form of 'to be'
+../edges.md:6:61:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:7:1:write-good.E-Prime:'isn't' is a form of 'to be'
+../edges.md:7:18:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:9:5:write-good.Illusions:'the' is repeated
+../edges.md:9:20:write-good.Illusions:'on' is repeated
+../edges.md:10:1:write-good.Illusions:'the' is repeated
+../edges.md:10:13:write-good.TooWordy:'It is' is wordy or unneeded
+../edges.md:10:16:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:10:19:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:12:5:write-good.Adverbs:'many' can weaken meaning
+../edges.md:12:5:write-good.Weasel:'many' is a weasel word
+../edges.md:12:40:write-good.Adverbs:'many' can weaken meaning
+../edges.md:12:40:write-good.Weasel:'many' is a weasel word
+../edges.md:12:57:write-good.Weasel:'few' is a weasel word
+../edges.md:13:1:write-good.Adverbs:'many' can weaken meaning
+../edges.md:13:1:write-good.Weasel:'many' is a weasel word
+../edges.md:13:21:write-good.Adverbs:'many' can weaken meaning
+../edges.md:13:21:write-good.Weasel:'many' is a weasel word
+../edges.md:15:1:write-good.TooWordy:'It was' is wordy or unneeded
+../edges.md:15:4:write-good.E-Prime:'was' is a form of 'to be'
+../edges.md:15:25:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:15:25:write-good.Passive:'is been' may be passive voice
+../edges.md:15:28:write-good.E-Prime:'been' is a form of 'to be'
+../edges.md:15:44:write-good.E-Prime:'were' is a form of 'to be'
+../edges.md:15:44:write-good.Passive:'were walked' may be passive voice
+../edges.md:15:65:write-good.E-Prime:'are' is a form of 'to be'
+../edges.md:15:65:write-good.Passive:'are loved' may be passive voice
+../edges.md:16:17:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:16:17:write-good.Passive:'is  eaten' may be passive voice
+../edges.md:16:28:write-good.E-Prime:'Being' is a form of 'to be'
+../edges.md:16:28:write-good.Passive:'Being told' may be passive voice
+../edges.md:16:39:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:16:48:write-good.TooWordy:'It was' is wordy or unneeded
+../edges.md:16:51:write-good.E-Prime:'was' is a form of 'to be'
+../edges.md:16:51:write-good.Passive:'was red' may be passive voice
+../edges.md:18:33:write-good.TooWordy:'already existing' is wordy or unneeded
+../edges.md:18:55:write-good.TooWordy:'At the present time' is wordy or unneeded
+../edges.md:19:9:write-good.TooWordy:'utilize' is wordy or unneeded
+../edges.md:19:21:write-good.TooWordy:'All of' is wordy or unneeded
+../edges.md:19:38:write-good.TooWordy:'in order to' is wordy or unneeded
+../edges.md:21:23:write-good.TooWordy:'it is' is wordy or unneeded
+../edges.md:21:26:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:21:29:write-good.Cliches:'a clean slate' is a cliche
+../edges.md:21:44:write-good.Cliches:'Will wonders never ceas' is a cliche
+../edges.md:22:1:write-good.Cliches:'All's fair in love and war' is a cliche
+../edges.md:24:1:write-good.E-Prime:'He’s' is a form of 'to be'
+../edges.md:24:15:write-good.E-Prime:'she's' is a form of 'to be'
+../edges.md:24:27:write-good.E-Prime:'that’s' is a form of 'to be'
+../edges.md:24:40:write-good.E-Prime:'It’s' is a form of 'to be'
+../edges.md:24:45:write-good.E-Prime:'what's' is a form of 'to be'
+../edges.md:26:1:write-good.Adverbs:'Clearly' can weaken meaning
+../edges.md:26:1:write-good.Weasel:'Clearly' is a weasel word
+../edges.md:26:14:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:26:17:write-good.Adverbs:'very' can weaken meaning
+../edges.md:26:17:write-good.Weasel:'very' is a weasel word
+../edges.md:26:22:write-good.Adverbs:'quickly' can weaken meaning
+../edges.md:26:40:write-good.TooWordy:'it is' is wordy or unneeded
+../edges.md:26:43:write-good.E-Prime:'is' is a form of 'to be'
+../edges.md:26:46:write-good.Adverbs:'really' can weaken meaning
+../edges.md:26:53:write-good.Adverbs:'just' can weaken meaning
+../edges.md:26:58:write-good.Adverbs:'stuff' can weaken meaning

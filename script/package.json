@@ -1,0 +1,13 @@
+{
+  "name": "write-good-vale-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs && node fixture.mjs",
+    "compare": "node compare.mjs ../fixtures/edges.md ../fixtures/phrases.md"
+  },
+  "dependencies": {
+    "js-yaml": "4.1.0",
+    "write-good": "1.0.8"
+  }
+}
