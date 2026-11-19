@@ -8,6 +8,9 @@
 # `./test.sh -u` rewrites the golden file instead of comparing.
 set -eu
 
+# One sort order on every machine.
+export LC_ALL=C
+
 update=0
 [ "${1:-}" = "-u" ] && update=1
 status=0
